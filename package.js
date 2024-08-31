@@ -1,0 +1,19 @@
+{
+    "author": "Brendan Dayley",
+    "name": "censorify2024",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "censortext",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/drmahadevi/nodejsrep"
+    },
+    "keywords": [
+    "censor",
+    "words"
+    ],
+    "dependencies": {},
+    "engines": {
+    "node": "*"
+    }
+    }
